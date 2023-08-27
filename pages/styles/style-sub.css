@@ -156,3 +156,8 @@ hr {
     width: 100%; /* Garante que a linha se estenda por toda a largura do container */
     border: 1px solid #CCC5B9; /* Adicione uma borda para tornar a linha visível */
 }   
+
+.line {
+    margin-left: 10%;
+    margin-right: 10%;
+}

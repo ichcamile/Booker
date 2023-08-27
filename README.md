@@ -3,5 +3,5 @@
 
 # "BOOKER - Dive into Words"
 Is a literary platform that provides resources for authors, reviews, a personalized reading environment, the latest releases, and reading guides.
+Clique aqui para ver o projeto / Click here to view the project : https://ichcamile.github.io/Booker/
 
-# Click here to explore

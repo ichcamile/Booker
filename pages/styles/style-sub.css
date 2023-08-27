@@ -1,0 +1,158 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+article  {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 1%;
+    margin: 1%;
+    max-width: 25%;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px #ccc;
+}
+
+nav img {
+    max-width: 101%;
+}
+
+nav {
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+.principal-image {
+    align-items: center;
+    display: block;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 35px;
+}
+
+
+a {
+    font-size: 12px;
+    /* Remove sublinhado e estilo de link padrão */
+    font-style: none;
+    text-decoration: none;
+}
+
+.name {  
+    font-size: 15px;
+    text-align: center;
+    margin: 0; 
+}
+
+section {
+    max-width: 80%;
+    margin-left: 10%;
+}
+
+
+.line {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.rest {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    margin: 25px; 
+    margin-bottom: 1px;
+}
+
+.zero {
+    padding: 15px;
+}
+
+header {
+    font-size: 15px;
+    box-shadow: 3px 3px 3px 3px #ccc;
+}
+
+body {
+    background-color: #FFFCF2;
+}
+
+.menu-total {
+    background-color:#EB5E28;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 80%;
+    color: #252422;
+}
+
+.button {
+    background-color: #403D39; 
+    color:#FFFCF2;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.newsletter {
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+.site-footer {
+    background-color: #403D39;
+    color: #CCC5B9;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    padding: 15px;
+    font-size: 12px;
+    text-align: center; /* Alinha o texto centralmente */
+}
+
+.site-footer img {
+    /* Estilos para a imagem no footer */
+    max-width: 100%; /* Para garantir que a imagem não ultrapasse o contêiner */
+}
+
+.site-footer nav {
+    /* Estilos para a seção de newsletter no footer */
+    margin-top: 10px; /* Espaçamento entre a imagem e a seção de assinatura */
+}
+
+.site-footer form {
+    /* Estilos para o formulário no footer */
+    margin-top: 10px; /* Espaçamento entre a seção de assinatura e o formulário */
+}
+
+.site-footer p.copy {
+    /* Estilos para o texto de direitos autorais no footer */
+    margin-top: 20px; /* Espaçamento entre o formulário e o texto de direitos autorais */
+}
+
+.site-footer hr {
+    /* Estilos para a linha horizontal no footer */
+    width: 100%; /* Garante que a linha se estenda por toda a largura do container */
+    border: 1px solid #CCC5B9; /* Adicione uma borda para tornar a linha visível */
+}
+
+
+
+
+hr {
+    width: 100%; /* Garante que a linha se estenda por toda a largura do container */
+    border: 1px solid #CCC5B9; /* Adicione uma borda para tornar a linha visível */
+}   

@@ -18,6 +18,8 @@ Para ver a versão original do projeto, desenvolvida em HTML e CSS, clique [aqui
 
 A versão atual em desenvolvimento com React e JavaScript estará disponível em breve. 🚧
 
+##
+
 To see the original version of the project developed in HTML and CSS, click [here]([original link](https://ichcamile.github.io/Booker/)).
 
 The current version under development with React and JavaScript will be available soon. 🚧
